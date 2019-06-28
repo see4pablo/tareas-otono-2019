@@ -1,0 +1,47 @@
+
+.title{
+    font-family: 'Permanent Marker', cursive;
+
+}
+label{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+.body{
+
+      font-family: 'Open Sans', sans-serif;
+}
+.container{
+    background-color: white;
+    border-radius: 20px;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    min-height: 100%;
+    
+}
+.container-table{
+    width: 80%;
+
+}
+button{
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+tr{
+    cursor : pointer;
+    
+}
+tr:hover{
+    background-color: rgba(255, 80, 80, 0.425);
+}
+
+.borde{
+    border: solid black 5px;
+}
+
+.escondido{
+    display : None;
+}
